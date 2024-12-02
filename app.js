@@ -20,6 +20,9 @@ stavka.addEventListener('click', (event) => {
         let x = event.target.innerText
         value = Number(x)
         event.target.style.background = "linear-gradient(45deg, #004d00, #b8860b)";
+        if(value>=balanc.innserText){
+                 alert('HOP ARA ASA ИЗВИНИ')
+        }
     }
 })
 
