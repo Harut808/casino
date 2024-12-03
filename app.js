@@ -122,18 +122,18 @@ function foo() {
                 balanc.innerText = Number(balanc.innerText) + (value * 2)
                          balanc.style.backgroundColor = "#32CD32"        }
             if (
-                vandak[2].alt === vandak[8].alt &&
-                vandak[2].alt === vandak[14].alt &&
-                vandak[2].alt === vandak[20].alt &&
-                vandak[2].alt === vandak[23].alt)
+                vandak[3].alt === vandak[8].alt &&
+                vandak[3].alt === vandak[14].alt &&
+                vandak[3].alt === vandak[20].alt &&
+                vandak[3].alt === vandak[23].alt)
                  {
                 balanc.innerText = Number(balanc.innerText) + (value * 2)
                          balanc.style.backgroundColor = "#32CD32"        }
             if (
-                vandak[2].alt === vandak[9].alt &&
-                vandak[2].alt === vandak[15].alt &&
-                vandak[2].alt === vandak[21].alt &&
-                vandak[2].alt === vandak[24].alt)
+                vandak[4].alt === vandak[9].alt &&
+                vandak[4].alt === vandak[15].alt &&
+                vandak[4].alt === vandak[21].alt &&
+                vandak[4].alt === vandak[24].alt)
                  {
                 balanc.innerText = Number(balanc.innerText) + (value * 2)
                          balanc.style.backgroundColor = "#32CD32"        }
