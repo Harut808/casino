@@ -153,12 +153,12 @@ function foo() {
     }}}
     let stug = true
     button.addEventListener('click', () => {
-
+            
         if (value > 0 && balanc.innerText > 0 && stug) {
             balanc.innerText = balanc.innerText - value 
             balanc.style.backgroundColor = '#FF4500'
             stug = false
-            
+            balanc.style.backgroundColor = "#006400"
             
             vandak.forEach((el, index) => {
                 console.log(count);
